@@ -6,3 +6,5 @@ an AI generated text encoder/decoder, that stores messages as png files. All of 
 everytime the program opens a new encrytion key is generated, so Id recommend saving a key first thing.
 
 ![Screenshot 2023-03-25 140308](https://user-images.githubusercontent.com/17059010/227687966-4ace3627-88ff-44cb-adcb-c8acf6246c33.png)
+
+I make no assurances regarding the strength of the encryption although i highly doubt this will ever get used.
